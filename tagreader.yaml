@@ -10,7 +10,7 @@ password: 'REPLACEME'      # Enter your wifi password here. Example: `password: 
 captive_portal:
 
 dashboard_import:
-  package_import_url: github://adonno/tagreader/tagreader.yaml
+  package_import_url: github.com/chairman63-source/tagreader/edit/master/tagreader.yaml
 
 improv_serial:
 
@@ -32,7 +32,7 @@ esphome:
   # This will allow for (future) project identification,
   # configuration and updates.
   project:
-    name: adonno.tag_reader
+    name: sanlup.tag_reader
     version: dev
 # If buzzer is enabled, notify on api connection success
   on_boot:
