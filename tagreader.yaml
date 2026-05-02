@@ -10,7 +10,7 @@ password: 'REPLACEME'      # Enter your wifi password here. Example: `password: 
 captive_portal:
 
 dashboard_import:
-  package_import_url: github.com/chairman63-source/tagreader/edit/master/tagreader.yaml
+  package_import_url: github.com/chairman63-source/tagreader/blob/master/tagreader.yaml
 
 improv_serial:
 
