@@ -2,6 +2,9 @@
 [![Discord](https://img.shields.io/discord/755394229944975380)](https://discord.gg/4SDcaRS)
 [![GitHub release](https://img.shields.io/github/release/adonno/tagreader.svg)](https://GitHub.com/adonno/tagreader/releases/)
 
+This project is entirely based on Adonno's tag reader. The parameters d=24 and d=16 have been changed to d=8, which caused the buzzer not to sound.
+All specifications and code are based on Adonno's original project.
+
 # Tag Reader for Home Assistant
 
 The tag reader is a simple to build/use NFC tag reader, specially created for [Home Assistant](https://www.home-assistant.io). It is using a D1 mini ESP 8266 and the PN532 NFC module. The firmware is built using [ESPhome](https://www.esphome.io).
